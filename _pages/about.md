@@ -21,3 +21,13 @@ Publication
 - **Xukai Liu**, Kai Zhang*, Ye Liu, Enhong Chen, Zhenya Huang, Linan Yue, Jiaxian Yan.
 RHGH: Relation-gated Heterogeneous Graph Network for Entity Alignment in Knowledge Graphs. 
 Findings of the 61st annual meeting of the Association for Computational Linguistics (ACL-Findings), 2023. [[paper]](https://aclanthology.org/2023.findings-acl.553/) [[code]](https://github.com/laquabe/RGHN)
+
+Educations
+======
+*2021.09 - now*, Ph.D. Candidate, University of Science and Technology of China (USTC), Supervisor: Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/).
+
+*2017.09 - 2021.07*, B.E., University of Science and Technology of China (USTC).
+
+Internships
+======
+*2023.02 - 2023.08*, ByteDance - AI LAB, Beijing, China.
