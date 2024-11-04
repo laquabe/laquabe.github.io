@@ -16,8 +16,12 @@ News
 
 Publication
 ======
-*(Some major publications, details in [this](https://laquabe.github.io/publications/) )*
-- **Xukai Liu**, Ye Liu, Kai Zhang*, Kehang Wang, Qi Liu, Enhong Chen. OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting. The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024. [[arxiv]](https://arxiv.org/abs/2410.07549) [[code]](https://github.com/laquabe/OneNet)
+*(details in [Publications](https://laquabe.github.io/publications/) )*
+- **Xukai Liu**, Ye Liu, Kai Zhang*, Kehang Wang, Qi Liu, Enhong Chen.
+OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting. The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024. [[arxiv]](https://arxiv.org/abs/2410.07549) [[code]](https://github.com/laquabe/OneNet)
+- Yanghai Zhang, Ye Liu, Shiwei Wu, Kai Zhang*, **Xukai Liu**, Qi Liu, Enhong Chen.
+Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization. 
+Findings of the 62nd annual meeting of the Association for Computational Linguistics (ACL-Findings), 2024.  [[paper]](https://aclanthology.org/2024.findings-acl.587) [[code]](https://github.com/ApocalypseH/EGMS)
 - **Xukai Liu**, Kai Zhang*, Ye Liu, Enhong Chen, Zhenya Huang, Linan Yue, Jiaxian Yan.
 RHGH: Relation-gated Heterogeneous Graph Network for Entity Alignment in Knowledge Graphs. 
 Findings of the 61st annual meeting of the Association for Computational Linguistics (ACL-Findings), 2023. [[paper]](https://aclanthology.org/2023.findings-acl.553/) [[code]](https://github.com/laquabe/RGHN)
