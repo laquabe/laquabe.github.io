@@ -30,4 +30,4 @@ Educations
 
 Internships
 ======
-*2023.02 - 2023.08*, ByteDance - AI LAB, Beijing, China.
+*2022.11 - 2023.08*, ByteDance - AI LAB, Beijing, China.
