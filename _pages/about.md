@@ -17,22 +17,14 @@ News
 Publication
 ======
 *(details in [Publications](https://laquabe.github.io/publications/) )*
-- **OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting**. [[paper]](https://arxiv.org/abs/2410.07549) [[code]](https://github.com/laquabe/OneNet)
-
-**Xukai Liu**, Ye Liu, Kai Zhang*, Kehang Wang, Qi Liu, Enhong Chen.
-
+- **OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting**. [[paper]](https://arxiv.org/abs/2410.07549) [[code]](https://github.com/laquabe/OneNet) \
+**Xukai Liu**, Ye Liu, Kai Zhang*, Kehang Wang, Qi Liu, Enhong Chen. \
 The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.
-
-- **RHGH: Relation-gated Heterogeneous Graph Network for Entity Alignment in Knowledge Graphs**.[[paper]](https://aclanthology.org/2023.findings-acl.553/) [[code]](https://github.com/laquabe/RGHN)
-
-**Xukai Liu**, Kai Zhang*, Ye Liu, Enhong Chen, Zhenya Huang, Linan Yue, Jiaxian Yan.
-
+- **RHGH: Relation-gated Heterogeneous Graph Network for Entity Alignment in Knowledge Graphs**.[[paper]](https://aclanthology.org/2023.findings-acl.553/) [[code]](https://github.com/laquabe/RGHN) \
+**Xukai Liu**, Kai Zhang*, Ye Liu, Enhong Chen, Zhenya Huang, Linan Yue, Jiaxian Yan. \
 Findings of the 61st annual meeting of the Association for Computational Linguistics (ACL-Findings), 2023. 
-
-- **Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization**.[[paper]](https://aclanthology.org/2024.findings-acl.587) [[code]](https://github.com/ApocalypseH/EGMS)
-
-Yanghai Zhang, Ye Liu, Shiwei Wu, Kai Zhang*, **Xukai Liu**, Qi Liu, Enhong Chen.
-
+- **Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization**.[[paper]](https://aclanthology.org/2024.findings-acl.587) [[code]](https://github.com/ApocalypseH/EGMS) \
+Yanghai Zhang, Ye Liu, Shiwei Wu, Kai Zhang*, **Xukai Liu**, Qi Liu, Enhong Chen. \
 Findings of the 62nd annual meeting of the Association for Computational Linguistics (ACL-Findings), 2024.
 
 Honors and Awards
