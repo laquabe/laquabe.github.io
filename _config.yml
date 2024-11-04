@@ -21,7 +21,7 @@ repository               : "laquabe/laquabe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image/FD51329D-597A-4314-B362-12E43BA2BE08.jpeg"
   name             : "Xukai Liu"
   pronouns         : # example: "she/her"  
   bio              : "Knowledge Graph, LLM, NLP"
